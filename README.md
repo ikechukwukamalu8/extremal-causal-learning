@@ -33,6 +33,6 @@ python main.py
 
 ### Future Directions
 
-* **Max-Linear Structural Equation Models (M-SEMs):** Implement max-linear recursive formulations ($Y = \max(\gamma X, \varepsilon)$) to properly characterize non-additive extreme event dynamics.
+* **Max-Linear Structural Equation Models (M-SEMs):** Implement max-linear recursive formulations $Y = \max(\gamma X, \varepsilon)$ to properly characterize non-additive extreme event dynamics.
 * **Asymmetric Spectral Measure Estimation:** Incorporate tail-decay rate estimators and angular spectral measures to break orientation ties where classical independence oracles produce bidirected skeletons.
 * **Application to Climate Extremes:** Test high-dimensional extremal SCMs on regional hydrometeorological datasets (e.g., river discharge and intense precipitation networks).
